@@ -17,7 +17,7 @@ O GoStack foi um bootcamp intensivo com duração média de 4 meses com o foco n
 etc
 
 ## Certificado
-<img width="584" height="413" alt="Certificado GoStack" src="certificate.png" />
+<img width="818" height="579" alt="Certificado GoStack" src="certificate.png" />
 
 ## Desafios Bootcamp GoStack
 
